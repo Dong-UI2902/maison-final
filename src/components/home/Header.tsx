@@ -49,7 +49,7 @@ const itemsMobile = [
 
 const Header = () => {
   const getItem = () => {
-    return itemsMobile;
+    return isMobile() ? itemsMobile : items;
   };
 
   return (
