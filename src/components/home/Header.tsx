@@ -80,59 +80,49 @@ const Header = () => {
             ))}
           </Carousel>
         </div>
-        <div className="header__content">
-          <div className="header__content-data">
-            <div className="header__content-title title">
-              <p>Chào mừng đến với</p>
-              Maison De Perfume
-              <p className="header__content-desc">
-                Một tiệm nước hoa nho nhỏ lấy cảm hứng từ những con người có cảm
-                xúc đặc biệt biệt với hương thơm mê hoặc.
-              </p>
+        {isMobile() && (
+          <div className="header__content">
+            <div className="header__content-data">
+              <div className="header__content-title title">
+                <p>Chào mừng đến với</p>
+                Maison De Perfume
+                <p className="header__content-desc">
+                  Một tiệm nước hoa nho nhỏ lấy cảm hứng từ những con người có
+                  cảm xúc đặc biệt biệt với hương thơm mê hoặc.
+                </p>
+              </div>
             </div>
-            {/* <div>
-              <Button
-                component={Link}
-                href="/category/chuong-trinh-uu-dai"
-                className="btn-primary"
-                variant="contained"
-                color="primary"
-                endIcon={<i className="ri-arrow-right-up-line"></i>}
-              >
-                Mua ngay
-              </Button>
-            </div> */}
-          </div>
-          <div className="home__social">
-            <span className="home__social-follow">Follow Us</span>
-            <div className="home__social-links">
-              <a
-                href={FANPAGE}
-                target="_blank"
-                rel="noreferrer"
-                className="home__social-link"
-              >
-                <i className="ri-facebook-fill"></i>
-              </a>
-              <a
-                href={INS}
-                target="_blank"
-                rel="noreferrer"
-                className="home__social-link"
-              >
-                <i className="ri-instagram-line"></i>
-              </a>
-              <a
-                href={TIKTOK}
-                target="_blank"
-                rel="noreferrer"
-                className="home__social-link"
-              >
-                <i className="ri-tiktok-fill"></i>
-              </a>
+            <div className="home__social">
+              <span className="home__social-follow">Follow Us</span>
+              <div className="home__social-links">
+                <a
+                  href={FANPAGE}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="home__social-link"
+                >
+                  <i className="ri-facebook-fill"></i>
+                </a>
+                <a
+                  href={INS}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="home__social-link"
+                >
+                  <i className="ri-instagram-line"></i>
+                </a>
+                <a
+                  href={TIKTOK}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="home__social-link"
+                >
+                  <i className="ri-tiktok-fill"></i>
+                </a>
+              </div>
             </div>
           </div>
-        </div>
+        )}
       </div>
     </section>
   );
