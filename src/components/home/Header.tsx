@@ -23,10 +23,13 @@ const responsive = {
 };
 
 const items = [
-  { img: "/assets/1.png", url: "/product/tom-ford-ombre-leather" },
-  { img: "/assets/2.png", url: "/category/tim-kiem-san-pham?search=bleu" },
+  { img: "/assets/desktop/1.png", url: "/product/tom-ford-ombre-leather" },
   {
-    img: "/assets/4.png",
+    img: "/assets/desktop/2.png",
+    url: "/category/tim-kiem-san-pham?search=bleu",
+  },
+  {
+    img: "/assets/desktop/4.png",
     url: "/category/tim-kiem-san-pham?search=Narciso%20Rodriguez",
   },
   // { img: "/assets/1.png", url: "" },
@@ -34,7 +37,7 @@ const items = [
 ];
 
 const itemsMobile = [
-  { img: "/assets/mobile/5.png", url: "/product/tom-ford-ombre-leather" },
+  { img: "/assets/mobile/1.png", url: "/product/tom-ford-ombre-leather" },
   {
     img: "/assets/mobile/2.png",
     url: "/category/tim-kiem-san-pham?search=bleu",
