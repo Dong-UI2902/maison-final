@@ -23,29 +23,31 @@ const responsive = {
 };
 
 const items = [
+  {
+    img: "/assets/desktop/4.png",
+    url: "/category/tim-kiem-san-pham?search=Narciso%20Rodriguez",
+  },
   { img: "/assets/desktop/1.png", url: "/product/tom-ford-ombre-leather" },
   {
     img: "/assets/desktop/2.png",
     url: "/category/tim-kiem-san-pham?search=bleu",
   },
-  {
-    img: "/assets/desktop/4.png",
-    url: "/category/tim-kiem-san-pham?search=Narciso%20Rodriguez",
-  },
+
   // { img: "/assets/1.png", url: "" },
   // { img: "/assets/1.png", url: "" },
 ];
 
 const itemsMobile = [
+  {
+    img: "/assets/mobile/4.png",
+    url: "/category/tim-kiem-san-pham?search=Narciso%20Rodriguez",
+  },
   { img: "/assets/mobile/1.png", url: "/product/tom-ford-ombre-leather" },
   {
     img: "/assets/mobile/2.png",
     url: "/category/tim-kiem-san-pham?search=bleu",
   },
-  {
-    img: "/assets/mobile/4.png",
-    url: "/category/tim-kiem-san-pham?search=Narciso%20Rodriguez",
-  },
+
   // { img: "/assets/1.png", url: "" },
   // { img: "/assets/1.png", url: "" },
 ];
@@ -65,7 +67,7 @@ const Header = () => {
             showDots={true}
             ssr={true} // means to render carousel on server-side.
             infinite={true}
-            // autoPlay={true}
+            autoPlay={true}
             arrows={false}
             autoPlaySpeed={7000}
             containerClass="carousel-container"
