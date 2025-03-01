@@ -6,7 +6,6 @@ import { Box, Typography } from "@mui/material";
 import Breadcrumb from "../components/Breadcrumb";
 import TagHeader from "../components/TagHeader";
 import CategoryList from "../components/CategoryList";
-import FlashSale from "../components/FlashSale";
 
 const Sale = () => {
   const { products } = useStore();
@@ -54,7 +53,7 @@ const Sale = () => {
             </Grid>
             <Grid item xs={12} md={9.5} className="category__product"></Grid>
           </Grid> */}
-          <FlashSale />
+          <img className="sale__img" src="/assets/img/events/birthday.jpg" />
           <Box className="category__product" sx={{ marginTop: 4 }}>
             <CategoryList data={data} />
           </Box>
