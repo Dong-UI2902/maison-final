@@ -63,7 +63,7 @@ const Header = () => {
         <div className="header__background">
           <Carousel
             responsive={responsive}
-            swipeable={true}
+            draggable={false}
             showDots={true}
             ssr={true} // means to render carousel on server-side.
             infinite={true}

@@ -34,7 +34,6 @@
       margin: 0 auto;
 
       &-title {
-        padding-top: 30rem;
         font-size: 4rem;
         font-weight: 800;
         // letter-spacing: -2px;
@@ -250,33 +249,25 @@
   .sale {
     padding-bottom: 0 !important;
 
-    &__title {
-      display: flex;
-      justify-content: space-between;
-
-      label {
-        color: var(--first-color-darkness);
-        margin-left: 5px;
-      }
-
-      img {
-        max-width: 200px;
-        padding-left: 10px;
-        animation: example 1s infinite ease-in-out;
-      }
-
-      .container {
-        overflow: var(--img-hidden);
-      }
+    &__container {
+      background-color: antiquewhite;
     }
 
-    // img {
-    //   transition: var(--img-transition);
+    img {
+      // transition: var(--img-transition);
 
-    //   &:hover {
-    //     transform: scale(1.05);
-    //   }
-    // }
+      // &:hover {
+      //   transform: scale(1.05);
+      // }
+    }
+
+    .react-multi-carousel-dot-list {
+      position: relative;
+    }
+
+    .product__container {
+      padding: 0.5rem 0.5rem;
+    }
 
     @keyframes example {
       0% {

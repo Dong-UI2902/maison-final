@@ -75,7 +75,7 @@ function Home() {
       {/* <Event /> */}
       <div className="category section">
         <FlashSale />
-        <center style={{ marginTop: 20, display: "block" }}>
+        {/* <center style={{ marginTop: 20, display: "block" }}>
           <Button
             component={Link}
             href="/category/chuong-trinh-uu-dai"
@@ -86,7 +86,7 @@ function Home() {
           >
             Xem thêm
           </Button>
-        </center>
+        </center> */}
       </div>
       <Popular />
       <Collection />
