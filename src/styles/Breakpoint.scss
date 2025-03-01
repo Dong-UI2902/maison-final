@@ -6,29 +6,28 @@
     .header {
       &__content {
         align-content: unset;
+        width: 100%;
+        top: 0;
+        position: absolute;
 
         &-data {
           position: absolute;
-          bottom: 1rem;
+          bottom: 0rem;
           padding: 10px;
         }
 
         &-title {
-          font-size: 2.5rem;
+          font-size: 2rem;
 
           p {
             font-size: var(--h3-font-size);
           }
         }
       }
-
-      &__container {
-        height: 88vh;
-      }
     }
 
     &__social {
-      top: 20%;
+      top: 30%;
       right: 0rem !important;
     }
 

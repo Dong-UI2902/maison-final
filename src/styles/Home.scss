@@ -3,12 +3,11 @@
     &__container {
       position: relative;
       width: 100%;
-      height: 70vh;
       z-index: 1;
     }
 
     &__background {
-      position: absolute;
+      position: relative;
       width: 100%;
       top: 0;
 
@@ -25,20 +24,20 @@
     }
 
     &__content {
-      position: relative;
+      position: absolute;
       display: grid;
       align-content: center;
       align-items: center;
       height: 100%;
       max-width: 1400px;
       margin: 0 auto;
+      text-shadow: 1px 1px 2px black;
 
       &-title {
         font-size: 4rem;
         font-weight: 800;
         // letter-spacing: -2px;
         font-family: var(--title-font);
-
         p {
           letter-spacing: 0px;
           font-size: var(--h1-font-size);
@@ -250,7 +249,7 @@
     padding-bottom: 0 !important;
 
     &__container {
-      background-color: antiquewhite;
+      background-color: var(--primary-color-light);
     }
 
     img {

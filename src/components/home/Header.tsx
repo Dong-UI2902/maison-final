@@ -3,7 +3,7 @@ import React, { memo } from "react";
 import Carousel from "react-multi-carousel";
 import Link from "../Link";
 import { FANPAGE, INS, isMobile, TIKTOK } from "../../Helper/Helper";
-
+import Fade from "react-reveal/Fade";
 const responsive = {
   desktop: {
     breakpoint: { max: 3000, min: 1024 },
@@ -85,14 +85,16 @@ const Header = () => {
         {isMobile() && (
           <div className="header__content">
             <div className="header__content-data">
-              <div className="header__content-title title">
-                <p>Chào mừng đến với</p>
-                Maison De Perfume
-                <p className="header__content-desc">
-                  Một tiệm nước hoa nho nhỏ lấy cảm hứng từ những con người có
-                  cảm xúc đặc biệt biệt với hương thơm mê hoặc.
-                </p>
-              </div>
+              <Fade left>
+                <div className="header__content-title title">
+                  <p>Chào mừng đến với</p>
+                  Maison De Perfume
+                  <p className="header__content-desc">
+                    Một tiệm nước hoa nho nhỏ lấy cảm hứng từ những con người có
+                    cảm xúc đặc biệt biệt với hương thơm mê hoặc.
+                  </p>
+                </div>
+              </Fade>
             </div>
             <div className="home__social">
               <span className="home__social-follow">Follow Us</span>
