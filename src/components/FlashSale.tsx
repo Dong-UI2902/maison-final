@@ -46,7 +46,12 @@ const FlashSale = () => {
         </div> */}
         <center>
           <Link href="/category/chuong-trinh-uu-dai">
-            <img className="sale__img" src="/assets/img/events/birthday.jpg" />
+            <img
+              className="sale__img"
+              src={`/assets/img/events/${
+                isMobile() ? "sale_mobile.png" : "sale.png"
+              }`}
+            />
           </Link>
         </center>
 
