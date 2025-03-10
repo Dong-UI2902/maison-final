@@ -83,8 +83,8 @@ const data = [
     option: "Dior Sauvage EDP 30ml",
     image: {
       uri: "/assets/img/lucky/30ml.png",
-      offsetY: 140,
-      sizeMultiplier: 0.8,
+      offsetY: 130,
+      sizeMultiplier: 0.9,
     },
   },
   {
