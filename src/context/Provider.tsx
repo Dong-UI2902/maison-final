@@ -59,11 +59,11 @@ const Provider: React.FC<{ children: any }> = ({ children }) => {
   };
 
   const setLocalStorage = (productIds: string[]) => {
-    localStorage.setItem("cart", JSON.stringify(productIds));
+    localStorage.setItem("maison_cart", JSON.stringify(productIds));
   };
 
   const getLocalStorage = () => {
-    return localStorage.getItem("cart");
+    return localStorage.getItem("maison_cart");
   };
 
   const getCart = () => {
@@ -82,7 +82,7 @@ const Provider: React.FC<{ children: any }> = ({ children }) => {
   };
 
   const getGift = () => {
-    return localStorage.getItem("gift");
+    return localStorage.getItem("maison_gift");
   };
 
   const setGift = (gift: any) => {
@@ -91,10 +91,10 @@ const Provider: React.FC<{ children: any }> = ({ children }) => {
     if (str) {
       const arr = [...JSON.parse(str)];
       arr.push(gift);
-      return localStorage.setItem("gift", JSON.stringify(arr));
+      return localStorage.setItem("maison_gift", JSON.stringify(arr));
     }
 
-    return localStorage.setItem("gift", JSON.stringify([gift]));
+    return localStorage.setItem("maison_gift", JSON.stringify([gift]));
   };
 
   useEffect(() => {

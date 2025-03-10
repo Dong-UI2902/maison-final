@@ -17,7 +17,9 @@ const LuckyWheel = () => {
 
   return (
     <div className="wheel">
-      <div style={{ backgroundImage: "url(./assets/img/lucky/br.jpg)" }}>
+      <div
+        style={{ backgroundImage: "url(./assets/img/lucky/background-2.png)" }}
+      >
         <div className="wheel__container">
           <Roulette />
           <a

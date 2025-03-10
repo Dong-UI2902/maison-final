@@ -20,7 +20,7 @@ const data = [
     image: {
       uri: "/assets/img/lucky/voucher.png",
       offsetY: 120,
-      sizeMultiplier: 0.5,
+      sizeMultiplier: 0.4,
     },
   },
   {
@@ -220,7 +220,7 @@ const Roulette = () => {
             radiusLineWidth={1}
             fontSize={15}
             textColors={["#ffffff"]}
-            backgroundColors={["#E6EFEB", "#029862"]}
+            backgroundColors={["#BA1E02", "#FBC12A"]}
             onStopSpinning={() => {
               setMustSpin(false);
               setGifts((prev: any) => [
