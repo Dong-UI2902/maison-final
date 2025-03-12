@@ -64,9 +64,9 @@
       {
         "capacity": "100ml",
         "price": "2950000",
-        "salePrice": "1650000",
+        "salePrice": "",
         "image": "1aPm5JSa6sgSTxBzVuJyxHFmikSyjnK5r",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
@@ -843,7 +843,7 @@
       {
         "capacity": "90ml",
         "price": "3250000",
-        "salePrice": "1750000",
+        "salePrice": "",
         "image": "1Va3s4yiy01_vjE9rKFt4N3rVCsTEWq4Z",
         "status": false
       },
@@ -2036,9 +2036,9 @@
       {
         "capacity": "100ml",
         "price": "3200000",
-        "salePrice": "1200000",
+        "salePrice": "",
         "image": "1zC3iNVbxCIZV_8azZZwThp0Xrm9OEaGs",
-        "status": true
+        "status": false
       }
     ],
     "description": "<p>Thương hiệu Christian Dior<br>Xuất xứ Pháp<br>Năm phát hành 2020<br>Nhóm hương Hương iso e super, Gỗ cashmere, Xạ hương<br>Phong cách Lịch lãm, Nam tính, Hấp dẫn</p><p><br>Với thông điệp 'I’m your man' dòng nước hoa Dior Homme 2020 đã thực sự trở thành một phiên bản hoàn chỉnh thể hiện phong thái lịch lãm và vẻ đẹp mạnh mẽ đầy hấp dẫn của cánh mày râu.</p><p><br>Nếu như Dior Homme phiên bản 2005 và 2011 đã thể hiện phần nào những cuốn hút trên làn da của một chàng trai nam tính, thì ở phiên bản 2020, nhà sáng chế muốn xác định sự gợi cảm nam tính và hoàn thiện một cách tuyệt đối.</p><p><br>Hương thơm đậm đà của gỗ chính là yếu tố chủ đạo tạo nên sự cuốn hút trong Dior Homme 2020. Cảm giác ấm áp từ Gỗ Cashmere phả vào không gian, chạm lấy và chạy dọc trên làn da, bạn sẽ nếm được vị cay nhẹ của Gỗ tuyết tùng, đan xen cùng âm vị cay nhẹ của Hoắc hương và Hồng tiêu.</p><p><br>Dần dần, cảm xúc tiến đến ngưỡng vấn vương, sâu lắng và gợi hình hơn bởi hương thơm toả ra từ Xạ hương, sự lôi cuốn dường như đã bắt được mạch nguồn của các giác quan. Quẩn quanh đâu đó là những nhành Cỏ Vetiver ve vẩy trong không gian, góp phần lột tả phong cách của người đàn ông vừa cổ điển, vừa hào phóng, sẵn sàng thâu tóm mọi xúc cảm của người đối diện.</p>",
