@@ -104,7 +104,7 @@ const Checkout = () => {
       ...input,
       sanpham: product.name + " " + product.capacity,
       isOrdered: isOrdered(),
-      // gifts: JSON.stringify(gifts),
+      gifts: JSON.stringify(gifts),
     };
 
     const formDataJsonString = JSON.stringify(cart);
