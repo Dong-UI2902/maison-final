@@ -24,6 +24,8 @@ import "./styles/Breakpoint.scss";
 import Sale from "./views/Sale";
 import EventModal from "./components/EventModal";
 import LuckyWheel from "./views/LuckyWheel";
+import News from "./views/News";
+import ArticleLayout from "./components/News/ArticleLayout";
 
 const theme = createTheme({
   typography: {
@@ -65,6 +67,9 @@ function App() {
           <Route path="/narciso" element={<Narciso />} />
           <Route path="/wintercollection" element={<WinterCollection />} />
           <Route path="/gio-hang" element={<ShoppingCart />} />
+
+          <Route path="/tin-tuc" element={<News />} />
+          <Route path="/tin-tuc/:slug" element={<ArticleLayout />} />
 
           <Route path="/vong-quay-may-man" element={<LuckyWheel />} />
         </Routes>

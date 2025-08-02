@@ -96,7 +96,7 @@ const Category = () => {
       <TagHeader
         title={`${getNameCategory()} - Maison de Perfume`}
         desc="Cửa hàng nước hoa chính hãng (Nước hoa chiết) tại Maison de Perfume, chuyên bán các loại nước hoa chiết, fullbox chính hãng"
-        url={`https://thomparfum.vn/category/${key}`}
+        url={`https://maisonperfume.net/category/${key}`}
       />
       <Breadcrumb>
         <Typography color="text.primary">{getNameCategory()}</Typography>
