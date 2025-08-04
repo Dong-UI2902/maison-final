@@ -1543,7 +1543,7 @@
         "price": "2100000",
         "salePrice": "",
         "image": "1YTaB1qkkgatBVhwf2yr3rsyv-qhI_zH-",
-        "status": true
+        "status": false
       }
     ],
     "description": "<p> <strong>Thương hiệu</strong> Yves Saint Laurent<br><strong>Xuất xứ</strong> Pháp<br><strong>Năm phát hành</strong> 2017<br>Nhóm hương Quả táo xanh, Hoa phong lữ<br>Phong cách Nam tính, Phóng khoáng, Tư do<br><br>Hương Đầu: Táo Xanh, Chanh, Quýt<br>Hương Giữa: Chi Mỏ Hạc, Hoa Oải Hương, Xô Thơm, Nước Hoa Cam<br>Hương Cuối: Vani, Đậu Tonka, Gỗ Cashmere, Tuyết Tùng, Hoa Hoắc Hương, Cỏ Hương Bài.</p><p> La Nuit de L'Homme Eau Électrique được mô tả như một hương thơm 'hoang dã' của một 'kẻ quyến rũ', người 'biến đêm thành lãnh thổ của mình' và 'không ai có thể cưỡng lại sự quyến rũ của anh ấy, ở góc cạnh của sự thanh lịch và tự do.'</p><p> Hương cam quýt của chanh và quýt kết hợp với táo xanh tạo thành một khởi đầu tươi mới. Hương thơm cổ điển làm từ hoa oải hương, phong lữ và đậu tonka, được hiện đại hóa bởi sự tươi mát của phần mở đầu, cũng như hương hoa cam tuyệt đối và cây xô thơm ở phần hương giữa. Hương gỗ của tuyết tùng, cây cashmere, cỏ vetiver và hoắc hương, và một chút vani chất lượng ở cuối hương.</p>",
@@ -1579,8 +1579,8 @@
     "name": "Yves Saint Laurent Y Eau de Toilette for Men",
     "prices": [
       {
-        "capacity": "100ml",
-        "price": "2600000",
+        "capacity": "75ml",
+        "price": "2450000",
         "salePrice": "",
         "image": "1-KLtM65E2DwKVskG4DxwdgsTvR70NRvj",
         "status": true
@@ -2216,8 +2216,8 @@
     "prices": [
       {
         "capacity": "100ml",
-        "price": "2700000",
-        "salePrice": "1250000",
+        "price": "2500000",
+        "salePrice": "",
         "image": "1niSdlrrllsM3OGy8zGCpHamaY6TCNcgG",
         "status": true
       },
@@ -2246,7 +2246,7 @@
     "prices": [
       {
         "capacity": "100ml",
-        "price": "2300000",
+        "price": "2600000",
         "salePrice": "",
         "image": "1sv25FZh8SZepozlpH_10hEsddO7gofNg",
         "status": true
