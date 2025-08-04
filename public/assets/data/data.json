@@ -298,7 +298,7 @@
         "price": "3250000",
         "salePrice": "1500000",
         "image": "14AuB5gaUX0eUnHk6GC4t_k-im1wXvrbR",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
@@ -473,9 +473,9 @@
       {
         "capacity": "90ml",
         "price": "2850000",
-        "salePrice": "1200000",
+        "salePrice": "",
         "image": "1kIWmpP_bNFdDOb_QHKQoszCGBoNlgLL7",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
@@ -750,9 +750,9 @@
       {
         "capacity": "100ml",
         "price": "3550000",
-        "salePrice": "1300000",
+        "salePrice": "",
         "image": "1ifyaEuxrCaswz7IZJCQ65DP3W4biuO8c",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
@@ -958,7 +958,7 @@
         "price": "6350000",
         "salePrice": "4100000",
         "image": "10KHGAgLvtbRoYyDybrgxGdcdpp838OXS",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
@@ -1134,7 +1134,7 @@
         "price": "6900000",
         "salePrice": "4100000",
         "image": "14_kKugSmHm99x2_ITU-FR5iumgE1AB8h",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
@@ -1475,7 +1475,7 @@
         "price": "3350000",
         "salePrice": "2500000",
         "image": "12EeMWjIgEdicSbqMxL3v4RPZbQJftQEM",
-        "status": true
+        "status": false
       }
     ],
     "description": "<p> <strong>Thương hiệu</strong> Yves Saint Laurent<br><strong>Xuất xứ</strong> Pháp<br><strong>Năm phát hành</strong> 2021<br>Nhóm hương Cây xô thơm, Quả táo xanh, Gừng<br>Phong cách Nam tính, Mạnh mẽ, Cuốn hút<br><br>Hương đầu: bưởi, táo, gừng, andehit<br>Heart: cây xô thơm, tinh chất oải hương, phong lữ tuyệt đối<br>Cơ sở: tuyết tùng, olibanum, tonka, tinh chất hoắc hương</p><p> Y LE PARFUM là một phiên bản mới, mãnh liệt hơn của nước hoa nam Y từ Yves Saint Laurent, sẽ được phát hành vào đầu năm 2021. Nước hoa được công bố là một thành phần fougère đậm và mạnh mẽ kết hợp sự tươi mát, mãnh liệt và mang lại sự sang trọng.<br>Đây là một hương thơm trong đó hoa oải hương Pháp tươi sáng và một nốt hương gỗ của tuyết tùng là hai thành phần chính quý phái. Các thành phần chính khác bao gồm gừng, xô thơm, phong lữ và hoắc hương.</p>",
@@ -2081,9 +2081,9 @@
     "name": "Dior Homme Parfum",
     "prices": [
       {
-        "capacity": "75ml",
+        "capacity": "100ml",
         "price": "3100000",
-        "salePrice": "",
+        "salePrice": "1400000",
         "image": "1JssUW5dNX9B8DYKyI9cOfF-7QywHzJ-u",
         "status": true
       }
