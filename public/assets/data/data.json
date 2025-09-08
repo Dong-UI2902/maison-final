@@ -296,9 +296,9 @@
       {
         "capacity": "100ml",
         "price": "3250000",
-        "salePrice": "1500000",
+        "salePrice": "",
         "image": "14AuB5gaUX0eUnHk6GC4t_k-im1wXvrbR",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
@@ -902,9 +902,9 @@
       {
         "capacity": "90ml",
         "price": "3650000",
-        "salePrice": "1950000",
+        "salePrice": "",
         "image": "1i6HYCb7lwkKQhT1HUWpGe9gnxxpuJdFz",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
@@ -956,9 +956,9 @@
       {
         "capacity": "50ml",
         "price": "6350000",
-        "salePrice": "4100000",
+        "salePrice": "",
         "image": "10KHGAgLvtbRoYyDybrgxGdcdpp838OXS",
-        "status": false
+        "status": true
       },
       {
         "capacity": "10ml",
@@ -1105,7 +1105,7 @@
       {
         "capacity": "100ml",
         "price": "8300000",
-        "salePrice": "4100000",
+        "salePrice": "",
         "image": "1MMGW27gUiWZ1kJdpl6tuQA4HNx_HZwkQ",
         "status": true
       },
@@ -1132,9 +1132,9 @@
       {
         "capacity": "50ml",
         "price": "6900000",
-        "salePrice": "4100000",
+        "salePrice": "",
         "image": "14_kKugSmHm99x2_ITU-FR5iumgE1AB8h",
-        "status": false
+        "status": true
       },
       {
         "capacity": "10ml",
@@ -1698,9 +1698,9 @@
       {
         "capacity": "100ml",
         "price": "3150000",
-        "salePrice": "1250000",
+        "salePrice": "",
         "image": "178jCdtc-CokRH1dxsEPKLmH_SqJh-lIl",
-        "status": true
+        "status": false
       }
     ],
     "description": "<p> <strong>Thương hiệu</strong> Chanel<br><strong>Xuất xứ</strong> Pháp<br><strong>Năm phát hành</strong> 2001<br>Nhóm hương Hoắc hương, Quả cam, Hoa hồng thổ nhĩ kỳ, Quýt hồng<br>Phong cách Gợi cảm , Quyến rũ , Sang trọng<br><br>Hương Đầu: Quả cam, Quả quýt hồng, Hoa cam<br>Hương giữa: Hoa trinh nữ, Hoa nhài, Hoa hồng Thổ Nhĩ Kỳ<br>Hương cuối: Cây hoắc hương, Hương Va ni, Xạ hương trắng</p><p> Nước hoa Coco Mademoiselle Eau de Parfum của thương hiệu Chanel mở đầu bằng mùi hương tươi mát của Cam và Hoa cam hòa quyện cùng chút thanh chua của quả Quýt Hồng. &nbsp;Coco Mademoiselle là hiện thân của một người phụ nữ mạnh mẽ, cuốn hút với phong cách rất đỗi đàn bà, Hoa trinh nữ và hoa nhài đua nhau tỏa hương gợi sự tò mò và chú ý tới những người xung quanh, và rồi kết thúc tầng hương thứ hai trọn vẹn với Hoa Hồng Thổ Nhĩ Kỳ đầy hấp dẫn. Cô nàng Coco Mademoiselle Eau de Parfum không chỉ cuốn hút mọi ánh nhìn, ở nơi cô gái này còn ẩn chưa sự ngọt ngào đầy ma mị của Cây Hoắc hương đan xen một chút vani và Xạ Hương Trắng, khiến mọi bước chân phải dừng lại lúc bạn thoáng qua.&nbsp;<br>&nbsp;</p>",
@@ -2189,6 +2189,26 @@
     "isNew": false,
     "isHot": false,
     "slug": "miss-dior-eau-de-parfum"
+  },
+  {
+    "id": "1tDIKDqODhDYNmCTHoE9OeOJXV2YM5qV1",
+    "name": "Miss Dior Eau De Parfum 2021",
+    "prices": [
+      {
+        "capacity": "100ml",
+        "price": "4200000",
+        "salePrice": "1950000",
+        "image": "1DEpKVzpGd-8dKx9DG1Z10Zsfcj1YhrxP",
+        "status": true
+      }
+    ],
+    "description": "<p>Thương hiệu:Christian Dior<br>Xuất xứ:Pháp<br>Nhóm hương:Hương hoa cỏ SÍP<br>Phong cách:Ngọt ngào,Quyến rũ,Trẻ trung </p><p>Hương đầu:Dâu dại,Quả dâu tây,Quả quýt hồng </p><p>Hương giữa:Hoa hồng,Hoa nhài </p><p>Hương cuối:Cây hoắc hương,Cỏ hương bài,Gỗ đàn hương,Hổ phách,Rêu cây sồi </p>",
+    "images": [],
+    "gender": "nữ",
+    "brand": "Christian Dior",
+    "isNew": false,
+    "isHot": true,
+    "slug": "miss-dior-eau-de-parfum-2021"
   },
   {
     "id": "1iYYPa6SKWWPW5MSMGsXjE7HoM5JCp6lO",
