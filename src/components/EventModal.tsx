@@ -22,8 +22,6 @@ const EventModal = () => {
 
   React.useEffect(() => {
     if (!("hasCodeRunBefore" in sessionStorage)) {
-      console.log("1231231");
-
       sessionStorage.setItem("hasCodeRunBefore", "true");
       setOpen(true);
     }
