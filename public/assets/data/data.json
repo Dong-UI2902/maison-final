@@ -3055,5 +3055,25 @@
     "isNew": false,
     "isHot": false,
     "slug": "narciso-rodriguez-for-her-forever"
+  },
+  {
+    "id": "1u_JUIo-rRADU7EUD5YZvQhpfEmJrqceu",
+    "name": "Bvlgari Aqva Pour Homme",
+    "prices": [
+      {
+        "capacity": "100ml",
+        "price": "2600000",
+        "salePrice": "1300000",
+        "image": "13E3z7i5Qm-X6TXyuu5Q5jJDrkdWYqumt",
+        "status": true
+      }
+    ],
+    "description": "<p>Thương hiệu: Bvlgari<br>Nhóm hương: Hương gỗ cay nồng<br>Phong cách: Cá tính,Độc đáo,Nam tính,Nhẹ nhàng </p><p>Hương đầu: Bạch đậu khấu,Gỗ đàn hương&nbsp;<br>Hương giữa: Cây bách xù,Cây riềng nếp,Gừng&nbsp;<br>Hương cuối: Gỗ Tếch,Hoa thuốc lá,Hương lục của lá xanh<br><br>Nước hoa nam Bvlgari Aqva Pour Homme,sản phẩm cao cấp của thương hiệu Bvlgari danh tiếng,được tạo ra dựa trên tiêu chuẩn chất lượng nghiêm ngặt và quy trình sản xuất tỉ mỉ. Từng công đoạn,từ việc chọn lọc những thành phần hương liệu chân thật,đến quá trình pha trộn theo công thức được kiểm soát chặt chẽ,đều nhằm mang đến một trải nghiệm hoàn hảo cho người dùng. </p><p>Aqva Pour Homme mang đến một hương thơm đặc trưng của biển cả – sự tươi mát của nước biển được hòa quyện với những nốt hương truyền thống mang hơi hướng hoài cổ. Hương thơm này không chỉ đánh thức các giác quan bằng cảm giác mát lành,sống động,mà còn khơi gợi những ký ức về những cảm xúc xưa cũ,tràn đầy chất mộc mạc và gần gũi. Đó là sự giao thoa giữa nét tinh tế hiện đại và sự hoài niệm về những giá trị truyền thống,tạo nên một hương thơm độc đáo và cuốn hút. </p>",
+    "images": [],
+    "gender": "nam",
+    "brand": "Bvlgari",
+    "isNew": false,
+    "isHot": false,
+    "slug": "bvlgari-aqva-pour-homme"
   }
 ]
