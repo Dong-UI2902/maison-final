@@ -467,6 +467,33 @@
     "slug": "parfums-de-marly-delina"
   },
   {
+    "id": "1JuUjgX5IH5d0gx87_1orFV8cwWc50qSl",
+    "name": "Parfums de Marly Delina Exclusif",
+    "prices": [
+      {
+        "capacity": "75ml",
+        "price": "6200000",
+        "salePrice": "3950000",
+        "image": "1OzpE-G2jX7hwIdmn1j7J58f1sijlKIVj",
+        "status": true
+      },
+      {
+        "capacity": "10ml",
+        "price": "700000",
+        "salePrice": "400000",
+        "image": "1BBCKvoU2_vGjG6XpNLlTeMQt2x_GaHrw",
+        "status": true
+      }
+    ],
+    "description": "<p>Thương hiệu:Parfums de Marly<br>Nhóm hương:Hương phương đông<br>Phong cách:Gợi cảm,Quyến rũ,Sang trọng </p><p>Hương đầu:Cam Bergamot,Quả lê,Quả vải&nbsp;<br>Hương giữa:Gỗ trầm hương,Hoa hồng Thổ Nhĩ Kỳ,Nhang (Hương)&nbsp;<br>Hương cuối:Hổ phách,Hương Gỗ.,Hương Va ni </p><p>&nbsp;</p><p>Parfums de Marly là một thương hiệu nước hoa xa xỉ hạng sang,được thành lập vào năm 2009 với mục tiêu mang đến những mùi hương tinh tế,phản ánh sự đẳng cấp và lịch lãm của thời đại hiện đại. Được lấy cảm hứng từ thời kỳ Hoàng gia Pháp,mỗi sản phẩm của Parfums de Marly đều thể hiện sự kết hợp hoàn hảo giữa nghệ thuật chế tác nước hoa truyền thống và sự sáng tạo đột phá. Thương hiệu không chỉ nổi bật với chất lượng tuyệt hảo mà còn với thiết kế chai nước hoa thanh lịch,mang đậm tính thẩm mỹ và giá trị sưu tập cao. </p>",
+    "images": ["1c9lYVVbjPIEYprgLR6p4kTJb58_-MJRJ"],
+    "gender": "nữ",
+    "brand": "Parfums De Marly",
+    "isNew": true,
+    "isHot": true,
+    "slug": "parfums-de-marly-delina-exclusif"
+  },
+  {
     "id": "1cYyD3Is2epgmZjODeX4sTB9Y1RqKHxZQ",
     "name": "Narciso Eau de Parfum Cristal",
     "prices": [
