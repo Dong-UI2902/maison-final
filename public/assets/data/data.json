@@ -115,6 +115,33 @@
     "slug": "chanel-no-5-leau"
   },
   {
+    "id": "1gppPiXPcpPxPJyuGNC2dPGZbG-xahPXl",
+    "name": "Chanel No 5 L'Eau Limited Edition",
+    "prices": [
+      {
+        "capacity": "50ml",
+        "price": "3150000",
+        "salePrice": "1550000",
+        "image": "1zgYcHIfE-ZdqUizrn2-coXWuhFLVuMeU",
+        "status": true
+      },
+      {
+        "capacity": "10ml",
+        "price": "310000",
+        "salePrice": "250000",
+        "image": "1ukGffJzPaU-OVNxNnoDIfbfMH19CzuGb",
+        "status": true
+      }
+    ],
+    "description": "<p>Thương hiệu Chanel<br>Xuất xứ Pháp<br>Nhóm hương&nbsp;&nbsp;&nbsp;&nbsp;Citrus Aldehydic<br>Phong cách&nbsp;&nbsp;&nbsp;&nbsp;Nữ tính, Thanh lịch, Tươi mát</p><p><br>Hương đầu: aldehyde, chanh, cam, quýt, chanh vàng, cam bergamot và hoa cam.<br>Hương giữa: hoa hồng tháng Năm, hoa ilang-ilang và hoa nhài.<br>Hương cuối: gỗ tuyết tùng, xạ hương trắng, rễ cây iris và vani.</p><p>&nbsp;</p><p>CHANEL N°5 là một bức tranh khảm rộng lớn vượt thời gian và giữ lại sự nhẹ nhàng phiêu diệu của khả năng trong dấu vết hương thơm của nó. Đó là một lời hứa được đưa ra trước đó vào năm 2016, khi N°5 L’EAU ra đời, một hương thơm mang tính biểu tượng, mới mẻ và quyến rũ, với sự tươi mát của hoa và tinh thần chưa từng có. Một nguồn năng lượng tích cực; nhẹ nhàng và trong suốt, nhưng đủ sức nặng để thả neo và ở trong khoảnh khắc. Đó là một giọt nước lấp lánh đầy cảm hứng, với những tia sáng cam quýt rực rỡ bay lên bầu trời, được nâng đỡ bởi aldehyde. Sau đó là một xoáy hoa của nhài, hoa hồng và hoa ilang-ilang, và cuối cùng là gỗ đàn hương và tuyết tùng năng động.</p><p>&nbsp;</p><p>Một mùi hương gây nghiện như một đường dây cứu sinh, đơn giản trong sự tinh tế và có khả năng biến những giấc mơ hoang dã thành hiện thực. Một giọt nước chảy tự do, đi ngược dòng và chứa đựng mọi cảm xúc trên thế giới.</p><p>&nbsp;</p><p>Với nó, chúng ta có thể là tất cả mọi thứ và ngược lại: vô tư, vui vẻ, tâm linh, bí ẩn, dũng cảm, ước mơ và tử tế… Hương hoa này có thể đáp ứng nhu cầu hiện tại và giải phóng những cảm xúc cần thiết để sống trọn vẹn trong vài giây, ngay lập tức. Đó là một trang phục khứu giác phù hợp với mọi dịp và mọi cảm xúc. Nó luôn sẵn sàng, vì vậy bạn có thể là người bạn muốn khi bạn muốn. Một cách dũng cảm và hoàn toàn tự do. - Chanel nói.</p>",
+    "images": [],
+    "gender": "nữ",
+    "brand": "Chanel",
+    "isNew": true,
+    "isHot": true,
+    "slug": "chanel-no-5-leau-limited-edition"
+  },
+  {
     "id": "1Q2Bhi-MTUnN9aLWUZt2De6BwG04OkIzN",
     "name": "Chanel No 5 Eau de Parfum",
     "prices": [
