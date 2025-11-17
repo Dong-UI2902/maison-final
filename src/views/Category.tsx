@@ -109,10 +109,10 @@ const Category = () => {
             </Grid>
             <Grid item xs={12} md={9.5} className="category__product"></Grid>
           </Grid> */}
-          <img
+          {/* <img
             className="category__image"
-            src={`/assets/img/${isMobile() ? "category2" : "category"}.jpg`}
-          />
+            src={`/assets/img/${isMobile() ? "category2" : "category"}.png`}
+          /> */}
           <Box className="category__product" sx={{ marginTop: 4 }}>
             {/* <div className="category__title">{`${getNameCategory()}`}</div> */}
             <CategoryList data={data} />
