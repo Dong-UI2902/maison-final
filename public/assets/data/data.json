@@ -956,9 +956,9 @@
       {
         "capacity": "90ml",
         "price": "3650000",
-        "salePrice": "",
+        "salePrice": "1950000",
         "image": "1i6HYCb7lwkKQhT1HUWpGe9gnxxpuJdFz",
-        "status": false
+        "status": true
       },
       {
         "capacity": "10ml",
