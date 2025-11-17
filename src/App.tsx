@@ -71,7 +71,7 @@ function App() {
           <Route path="/tin-tuc" element={<News />} />
           <Route path="/tin-tuc/:slug" element={<ArticleLayout />} />
 
-          {/* <Route path="/vong-quay-may-man" element={<LuckyWheel />} /> */}
+          <Route path="/vong-quay-may-man" element={<LuckyWheel />} />
         </Routes>
         <Footer />
         <a href="#" className="scrollup" id="scroll-up">
