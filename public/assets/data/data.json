@@ -92,9 +92,9 @@
     "name": "Chanel No 5 L'Eau",
     "prices": [
       {
-        "capacity": "50ml",
+        "capacity": "100ml",
         "price": "3150000",
-        "salePrice": "",
+        "salePrice": "1350000",
         "image": "1xOnjGrmC9pq4VKmBxfg82Lure6G79io7",
         "status": true
       },
