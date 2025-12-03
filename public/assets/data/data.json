@@ -412,9 +412,9 @@
       {
         "capacity": "50ml",
         "price": "5900000",
-        "salePrice": "3900000",
+        "salePrice": "",
         "image": "19T0Nb1E5c2gl-SwFVJQQYqi1S95DtWAO",
-        "status": true
+        "status": false
       },
       {
         "capacity": "10ml",
@@ -473,7 +473,7 @@
       {
         "capacity": "75ml",
         "price": "4900000",
-        "salePrice": "2100000",
+        "salePrice": "",
         "image": "1TZ0MH1FpFhQAcOLF378uJ4Ye0EZ4dJHu",
         "status": false
       },
@@ -2251,7 +2251,7 @@
       {
         "capacity": "100ml",
         "price": "4200000",
-        "salePrice": "1950000",
+        "salePrice": "",
         "image": "1DEpKVzpGd-8dKx9DG1Z10Zsfcj1YhrxP",
         "status": true
       }
