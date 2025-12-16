@@ -1,6 +1,7 @@
 import { Button, Modal, Box, Typography, Link } from "@mui/material";
 import React from "react";
 import ClearIcon from "@mui/icons-material/Clear";
+import { FANPAGE } from "../Helper/Helper";
 const style = {
   position: "absolute",
   top: "50%",
@@ -32,8 +33,7 @@ const Notification = () => {
             <h2>
               Đặt hàng qua{" "}
               <a
-                // href="https://m.me/105374042191939"
-                href="#"
+                href={FANPAGE}
                 style={{ textDecoration: "underLine", fontSize: "24px" }}
               >
                 fanpage
