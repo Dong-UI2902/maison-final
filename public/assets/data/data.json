@@ -1159,14 +1159,14 @@
       {
         "capacity": "100ml",
         "price": "8300000",
-        "salePrice": "",
+        "salePrice": "4100000",
         "image": "1MMGW27gUiWZ1kJdpl6tuQA4HNx_HZwkQ",
         "status": true
       },
       {
         "capacity": "10ml",
         "price": "800000",
-        "salePrice": "630000",
+        "salePrice": "590000",
         "image": "1kV1NqvOzHGU0TwAKaEgJAYHZa30BLDgN",
         "status": true
       }
