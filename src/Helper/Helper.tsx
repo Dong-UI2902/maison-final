@@ -81,7 +81,7 @@ export const isMobile = () => {
   );
 };
 
-export const FANPAGE = "https://www.facebook.com/maisondeperfume.net";
+export const FANPAGE = "https://www.facebook.com/maisonperfume.net";
 
 export const PHONE_NUMBER = "0928 33 88 55";
 
