@@ -53,7 +53,7 @@ const Sale = () => {
             </Grid>
             <Grid item xs={12} md={9.5} className="category__product"></Grid>
           </Grid> */}
-          <img className="sale__img" src="/assets/img/events/tet.png" />
+          <img className="sale__img" src="/assets/img/events/tet.gif" />
           <Box className="category__product" sx={{ marginTop: 4 }}>
             <CategoryList data={data} />
           </Box>

@@ -49,7 +49,7 @@ const FlashSale = () => {
             <img
               className="sale__img"
               src={`/assets/img/events/${
-                isMobile() ? "tet-mobile.gif" : "tet.png"
+                isMobile() ? "tet-mobile.gif" : "tet.gif"
               }`}
             />
           </Link>
