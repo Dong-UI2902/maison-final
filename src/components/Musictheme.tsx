@@ -4,39 +4,37 @@ const Musictheme = () => {
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
   useEffect(() => {
-    // Attempt to play the audio when the component mounts
-    const playPromise = audioRef.current?.play();
+    const enableAudio = () => {
+      if (!audioRef.current) return;
 
-    if (playPromise !== undefined) {
-      playPromise
-        .then(() => {
-          // Autoplay started
-        })
-        .catch((error) => {
-          // Autoplay was prevented (e.g., sound was not muted)
-          console.log("Autoplay blocked. User interaction needed.");
-          // Optional: Add an event listener to play after the first user click
-          document.addEventListener(
-            "click",
-            () => {
-              audioRef.current?.play();
-              audioRef.current!.muted = false;
-            },
-            { once: true }
-          );
-        });
-    }
+      audioRef.current.muted = false; // 👈 QUAN TRỌNG
+      audioRef.current.volume = 0.6;
 
-    // Pause audio when the component unmounts
+      audioRef.current.play().catch(() => {
+        console.log("Mobile vẫn chặn audio");
+      });
+
+      // Chỉ chạy 1 lần
+      document.removeEventListener("touchstart", enableAudio);
+      document.removeEventListener("click", enableAudio);
+    };
+
+    document.addEventListener("touchstart", enableAudio, { once: true });
+    document.addEventListener("click", enableAudio, { once: true });
+
     return () => {
       audioRef.current?.pause();
     };
   }, []);
 
   return (
-    <div>
-      <audio ref={audioRef} src="/assets/tetmusic.mp3" muted />
-    </div>
+    <audio
+      ref={audioRef}
+      src="/assets/tetmusic.mp3"
+      muted
+      loop
+      preload="auto"
+    />
   );
 };
 

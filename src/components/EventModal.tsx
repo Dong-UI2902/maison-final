@@ -42,7 +42,7 @@ const EventModal = () => {
           <Link href="/">
             <img
               style={{ maxHeight: "90vh" }}
-              src="/assets/img/events/tet.gif"
+              src="/assets/img/events/tet-mobile.gif"
             />
           </Link>
         </Box>
