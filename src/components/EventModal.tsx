@@ -1,6 +1,8 @@
 import { Button, Modal, Box, Typography } from "@mui/material";
 import React from "react";
 import Link from "./Link";
+import { Height } from "@mui/icons-material";
+import { maxHeaderSize } from "http";
 
 const style = {
   position: "absolute",
@@ -8,7 +10,7 @@ const style = {
   left: "50%",
   transform: "translate(-50%, -50%)",
   width: {
-    md: 1024,
+    md: "auto",
     xs: "90%",
   },
   bgcolor: "background.paper",
@@ -37,8 +39,11 @@ const EventModal = () => {
         aria-describedby="modal-modal-description"
       >
         <Box sx={style}>
-          <Link href="/category/chuong-trinh-uu-dai">
-            <img src="/assets/img/events/birthday.jpg" />
+          <Link href="/">
+            <img
+              style={{ maxHeight: "90vh" }}
+              src="/assets/img/events/tet.gif"
+            />
           </Link>
         </Box>
       </Modal>

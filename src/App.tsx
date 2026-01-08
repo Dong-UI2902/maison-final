@@ -26,6 +26,7 @@ import EventModal from "./components/EventModal";
 import LuckyWheel from "./views/LuckyWheel";
 import News from "./views/News";
 import ArticleLayout from "./components/News/ArticleLayout";
+import Musictheme from "./components/Musictheme";
 
 const theme = createTheme({
   typography: {
@@ -52,7 +53,8 @@ function App() {
   return (
     <Provider>
       <ThemeProvider theme={theme}>
-        {/* <EventModal /> */}
+        <EventModal />
+        <Musictheme />
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
