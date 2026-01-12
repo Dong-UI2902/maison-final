@@ -52,7 +52,7 @@ function App() {
   return (
     <Provider>
       <ThemeProvider theme={theme}>
-        <EventModal />
+        {/* <EventModal /> */}
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
